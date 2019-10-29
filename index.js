@@ -7,7 +7,7 @@ const postsRouter = require('./posts/posts-router')
 
 //create and import a model
 //database
-const Posts = require('./posts-model.js')
+//const Posts = require('./data/db')
 
 server.use(express.json())
 
